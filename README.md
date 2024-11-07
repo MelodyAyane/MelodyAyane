@@ -30,28 +30,31 @@
 
 <br><br><br><br><br><br>
 
-### 🎯 学习进度 GitHub Streak
+### 🏆 GitHub 成就 Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=MelodyAyane&theme=flat&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Repositories,Commits,PullRequest,Issues,Stars" alt="GitHub Trophies"/>
+</p>
 
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=MelodyAyane&theme=default&border=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=383838&sideNums=383838&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=383838&stroke=FF69B4" alt="GitHub Streak" />
-
-### 📫 联系我 Contact Me
+### 📫 联系方式 Contact Me
 
 <p align="left">
   <a href="https://github.com/MelodyAyane" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://blog.sakuyaayane.me/" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-FF69B4?style=for-the-badge&logo=blogger&logoColor=white"/>
+  </a>
 </p>
 
-<!-- 可爱的分割线 -->
+### 📝 最新博客文章 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- 💫 欢迎访问我的博客：[Sakuya Ayane's Blog](https://blog.sakuyaayane.me/)
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
-  ─────────────────────────────────────────────────────────────
+  ────────────────────── ⋆⋅☆⋅⋆ ──────────────────────
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MelodyAyane&label=Profile%20views&color=FF69B4&style=flat" alt="Profile Views" />
-</p>
-
-<!-- 添加一些可爱的底部装饰 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom" />
 </p>
