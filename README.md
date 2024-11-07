@@ -32,7 +32,7 @@
 
 ### 🏆 GitHub 成就 Achievements
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MelodyAyane&theme=flat&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Repositories,Commits,PullRequest,Issues,Stars" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MelodyAyane&theme=flat&row=2&column=3&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ### 📫 联系方式 Contact Me
