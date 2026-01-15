@@ -1,61 +1,69 @@
-<h1 align="center">Hi there 👋, I'm SakuyaAyane</h1>
-<h3 align="center">一个对代码充满热情的大二学生 ✨</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,FF69B4&height=220&section=header&text=Hi%20there,%20I'm%20SakuyaAyane&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=NekoSoft%20Founder%20%26%20Lead%20Developer&descSize=25&descAlignY=60&descAlign=50"/>
+</div>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MelodyAyane&theme=onestar&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+  </a>
+</div>
+
+<br>
+
+<table align="center" border="0" bgcolor="0d1117">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👾 关于我 About Me</h2>
+      <br>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=NekoSoft+Founder+%26+Lead;Developing+NekoAntiXray+%26+Nekovideo;Java+%7C+Python+%7C+C%2B%2B;繁星不怕被看作流萤" alt="Typing SVG" />
+      </p>
+      <ul>
+        <li>🚀 <b>当前职位</b>：<strong>NekoSoft</strong> 团队创始人 & 负责人</li>
+        <li>💻 <b>核心项目</b>：负责开发 <strong>NekoAntiXray</strong>、<strong>Nekovideo</strong> 等插件</li>
+        <li>🎓 <b>身份</b>：充满热情的大学生开发者</li>
+        <li>🌱 <b>技术栈</b>：Java, Python, C++</li>
+        <li>💬 <b>座右铭</b>：永远保持学习的热情</li>
+      </ul>
+      <br>
+      <h2>🛠️ 技术栈 Tech Stack</h2>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/NekoSoft-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
+    </td>
+    <td width="40%" valign="center">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MelodyAyane&show_icons=true&theme=transparent&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FF69B4&border_color=FF69B4&ring_color=FF69B4&hide_border=true" alt="MelodyAyane's Github Stats"/>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyAyane&layout=compact&theme=transparent&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&border_color=FF69B4&hide_border=true&langs_count=6" alt="Top Languages" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MelodyAyane&bg_color=0d1117&color=FF69B4&line=FF69B4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=MelodyAyane&label=PROFILE+VIEWS&color=FF69B4&style=for-the-badge&logo=appveyor" alt="Profile Views" />
+</div>
+
+<br>
+
+<h3 align="center">📫 联系我 & 博客 Contact & Blog</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=繁星不怕被看作流萤;Second-year+university+student;Java+%7C+Python+%7C+C%2B%2B" alt="Typing SVG" />
-</p>
-
-<!-- GitHub统计卡片 - 右侧 -->
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=MelodyAyane&show_icons=true&theme=buefy&bg_color=ffffff&title_color=FF69B4&icon_color=FF69B4&text_color=383838&border_color=FF69B4"/>
-
-### 👩‍💻 关于我 About Me
-
-- 🎓 我是一名大二学生，正在探索编程的世界
-- 🌸 代词：她/她的 (She/Her/Hers)
-- 📚 正在学习：Java、Python、C++
-- 🌱 永远保持学习的热情
-- 💬 请多指教！
-
-### 🛠️ 技术栈 Tech Stack
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</p>
-
-### 📊 编程语言统计 Most Used Languages
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyAyane&layout=compact&theme=buefy&bg_color=ffffff&title_color=FF69B4&text_color=383838&border_color=FF69B4" alt="Top Languages" />
-
-<br><br><br><br><br><br>
-
-### 🏆 GitHub 成就 Achievements
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MelodyAyane&theme=flat&row=2&column=3&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
-### 📫 联系方式 Contact Me
-
-<p align="left">
   <a href="https://github.com/MelodyAyane" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://blog.sakuyaayane.me/" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-FF69B4?style=for-the-badge&logo=blogger&logoColor=white"/>
+    <img alt="Blog-SakuyaAyane.me-FF69B4?style=for-the-badge&logo=blogger&logoColor=white&color=FF69B4"/>
   </a>
 </p>
 
-### 📝 最新博客文章 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- 💫 欢迎访问我的博客：[Sakuya Ayane's Blog](https://blog.sakuyaayane.me/)
-<!-- BLOG-POST-LIST:END -->
-
 <p align="center">
-  ────────────────────── ⋆⋅☆⋅⋆ ──────────────────────
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MelodyAyane&label=Profile%20views&color=FF69B4&style=flat" alt="Profile Views" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
