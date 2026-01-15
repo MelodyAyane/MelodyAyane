@@ -10,14 +10,15 @@
 
 <br>
 
-<table align="center" border="0" bgcolor="0d1117">
+<table align="center" border="0" bgcolor="#0d1117">
   <tr>
     <td width="60%" valign="top">
       <h2>👾 关于我 About Me</h2>
       <br>
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=NekoSoft+Founder+%26+Lead;Developing+NekoAntiXray+%26+Nekovideo;Java+%7C+Python+%7C+C%2B%2B;繁星不怕被看作流萤" alt="Typing SVG" />
-      </p>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=NekoSoft+Founder+%26+Lead;Developing+NekoAntiXray+%26+Nekovideo;Java+%7C+Python+%7C+C%2B%2B;繁星不怕被看作流萤" alt="Typing SVG" />
+      </a>
+      <br><br>
       <ul>
         <li>🚀 <b>当前职位</b>：<strong>NekoSoft</strong> 团队创始人 & 负责人</li>
         <li>💻 <b>核心项目</b>：负责开发 <strong>NekoAntiXray</strong>、<strong>Nekovideo</strong> 等插件</li>
@@ -36,9 +37,9 @@
     </td>
     <td width="40%" valign="center">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MelodyAyane&show_icons=true&theme=transparent&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FF69B4&border_color=FF69B4&ring_color=FF69B4&hide_border=true" alt="MelodyAyane's Github Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=MelodyAyane&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FF69B4&hide_border=true" alt="MelodyAyane's Github Stats"/>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyAyane&layout=compact&theme=transparent&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&border_color=FF69B4&hide_border=true&langs_count=6" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyAyane&layout=compact&theme=dark&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&hide_border=true&langs_count=6" alt="Top Languages" />
       </div>
     </td>
   </tr>
@@ -47,8 +48,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MelodyAyane&bg_color=0d1117&color=FF69B4&line=FF69B4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,0d1117&height=100&section=footer"/>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=MelodyAyane&label=PROFILE+VIEWS&color=FF69B4&style=for-the-badge&logo=appveyor" alt="Profile Views" />
 </div>
 
@@ -57,13 +58,9 @@
 <h3 align="center">📫 联系我 & 博客 Contact & Blog</h3>
 <p align="center">
   <a href="https://github.com/MelodyAyane" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-MelodyAyane-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://blog.sakuyaayane.me/" target="_blank">
-    <img alt="Blog-SakuyaAyane.me-FF69B4?style=for-the-badge&logo=blogger&logoColor=white&color=FF69B4"/>
+    <img alt="Blog" src="https://img.shields.io/static/v1?label=Blog&message=SakuyaAyane.me&color=FF69B4&style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
