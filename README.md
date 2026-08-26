@@ -34,8 +34,7 @@
   <tr>
     <td width="52%" valign="top">
       <h3>✨ SakuyaAyane</h3>
-      <p>学生开发者、NekoSoft 创始人和核心架构师，喜欢把复杂的服务端问题做成可靠、易维护的开源工具。</p>
-      <p><b>座右铭：</b><br />“繁星不怕被看作流萤，永远保持学习的热情 ✨”</p>
+      <p>学生开发者、NekoSoft 创始人和核心架构师。</p>
     </td>
     <td width="48%" valign="top">
       <h3>现在专注</h3>
@@ -78,13 +77,6 @@ currently_learning: distributed systems, performance tuning, clean architecture
 | **NekoAntiXray** | Minecraft 服务端安全与性能 | Java · Paper/Spigot · 高性能 |
 | **Nekovideo** | 视频与内容工具生态 | Python · 自动化 · 开源 |
 | **NekoSoft** | 面向开发者的实用插件与工具 | 社区 · 架构 · 可维护性 |
-
-## 🌱 工作方式 · How I work
-
-- 🧭 先用数据定位瓶颈，再用简单方案解决问题
-- 🧪 为关键行为补充可重复的测试和回滚路径
-- 🤝 欢迎 issue、讨论和小而清晰的 PR
-- 📚 持续学习，把经验沉淀成文档和工具
 
 ## 📬 联系与互动 · Connect
 
