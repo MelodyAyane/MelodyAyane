@@ -70,14 +70,6 @@ currently_learning: distributed systems, performance tuning, clean architecture
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 🚀 项目方向 · What I build
-
-| 项目 | 方向 | 关键词 |
-| --- | --- | --- |
-| **NekoAntiXray** | Minecraft 服务端安全与性能 | Java · Paper/Spigot · 高性能 |
-| **Nekovideo** | 视频与内容工具生态 | Python · 自动化 · 开源 |
-| **NekoSoft** | 面向开发者的实用插件与工具 | 社区 · 架构 · 可维护性 |
-
 ## 📬 联系与互动 · Connect
 
 <p align="center">
