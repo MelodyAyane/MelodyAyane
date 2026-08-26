@@ -48,13 +48,6 @@
   </tr>
 </table>
 
-```yaml
-name: SakuyaAyane (MelodyAyane)
-role: Founder & Lead Developer @ NekoSoft
-location: 星光与代码之间
-currently_learning: distributed systems, performance tuning, clean architecture
-```
-
 ## 🛠️ 技术栈 · Tech stack
 
 <p align="center">
