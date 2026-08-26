@@ -79,25 +79,6 @@ currently_learning: distributed systems, performance tuning, clean architecture
 | **Nekovideo** | 视频与内容工具生态 | Python · 自动化 · 开源 |
 | **NekoSoft** | 面向开发者的实用插件与工具 | 社区 · 架构 · 可维护性 |
 
-## 📊 数据统计 · GitHub analytics
-
-<p align="center">
-  <a href="https://github.com/MelodyAyane">
-    <img height="195" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MelodyAyane&theme=github_dark&title_color=FF69B4&text_color=C9D1D9&bg_color=0d1117&border_color=FF69B4&icon_color=FF69B4&animation=rise" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/MelodyAyane?tab=repositories">
-    <img height="195" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MelodyAyane&theme=github_dark&title_color=FF69B4&text_color=C9D1D9&bg_color=0d1117&border_color=FF69B4&icon_color=FF69B4&animation=rise" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MelodyAyane">
-    <img width="97%" src="https://streak-stats.demolab.com/?user=MelodyAyane&theme=tokyonight&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=9CA3AF&dates=9CA3AF&stroke=FF69B4" alt="GitHub contribution streak" />
-  </a>
-</p>
-
-> **私有仓库说明** · 在线卡片默认只能读取公开活动。你的仓库以私有为主时，建议在个人资料仓库里使用 [Profile Summary Cards Action](https://github.com/vn7n24fzkq/github-profile-summary-cards#github-actions-usage)：把 PAT 存为 `SUMMARY_GITHUB_TOKEN`，Action 生成 SVG 后，将上面两张图替换为 `./profile-summary-card-output/github_dark/3-stats.svg` 和 `./profile-summary-card-output/github_dark/1-repos-per-language.svg`，即可统计私有活动且不会暴露仓库名称。
-
 ## 🌱 工作方式 · How I work
 
 - 🧭 先用数据定位瓶颈，再用简单方案解决问题
