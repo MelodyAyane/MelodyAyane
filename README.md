@@ -1,9 +1,4 @@
-<!--
-  SakuyaAyane / MelodyAyane · profile README
-  Cards use Profile Summary Cards because legacy dynamic endpoints
-  are intermittently unavailable. Trophy uses a currently healthy
-  load-balanced endpoint (see the verification report for the live checks).
--->
+<!-- SakuyaAyane / MelodyAyane · GitHub Profile README -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0d1117,ff69b4,9b5de5&amp;height=230&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20SakuyaAyane&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=NekoSoft%20Founder%20%26%20Lead%20Developer&amp;descSize=21&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="SakuyaAyane header" />
@@ -21,8 +16,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MelodyAyane"><img src="https://img.shields.io/badge/GitHub-MelodyAyane-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/NekoSoft"><img src="https://img.shields.io/badge/NekoSoft-FF69B4?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="NekoSoft" /></a>
+  <a href="https://github.com/MelodyAyane">
+    <img src="https://img.shields.io/badge/GitHub-MelodyAyane-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/NekoSoft">
+    <img src="https://img.shields.io/badge/NekoSoft-FF69B4?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="NekoSoft" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=MelodyAyane&amp;label=PROFILE+VIEWS&amp;color=FF69B4&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
