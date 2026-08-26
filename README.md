@@ -6,7 +6,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,ff69b4,9b5de5&height=230&section=header&text=Hi%20there%2C%20I%27m%20SakuyaAyane&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=NekoSoft%20Founder%20%26%20Lead%20Developer&descSize=21&descAlignY=62&descAlign=50" width="100%" alt="SakuyaAyane header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0d1117,ff69b4,9b5de5&amp;height=230&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20SakuyaAyane&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=NekoSoft%20Founder%20%26%20Lead%20Developer&amp;descSize=21&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="SakuyaAyane header" />
 </p>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 <p align="center">
   <a href="https://github.com/MelodyAyane?tab=repositories">
-    <img src="https://trophy.ryglcloud.net/?username=MelodyAyane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" width="96%" alt="GitHub trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=MelodyAyane&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;margin-h=12&amp;column=6" width="96%" alt="GitHub trophies" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MelodyAyane"><img src="https://img.shields.io/badge/GitHub-MelodyAyane-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/NekoSoft"><img src="https://img.shields.io/badge/NekoSoft-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="NekoSoft" /></a>
-  <img src="https://komarev.com/ghpvc/?username=MelodyAyane&label=PROFILE+VIEWS&color=FF69B4&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/MelodyAyane"><img src="https://img.shields.io/badge/GitHub-MelodyAyane-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/NekoSoft"><img src="https://img.shields.io/badge/NekoSoft-FF69B4?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="NekoSoft" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MelodyAyane&amp;label=PROFILE+VIEWS&amp;color=FF69B4&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
