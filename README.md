@@ -1,7 +1,7 @@
 <!-- SakuyaAyane / MelodyAyane · GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0d1117,ff69b4,9b5de5&amp;height=230&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20SakuyaAyane&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=NekoSoft%20Founder%20%26%20Lead%20Developer&amp;descSize=21&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="SakuyaAyane header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0d1117,ff69b4,9b5de5&amp;height=230&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20SakuyaAyane&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=NekoSoft%20Founder%20and%20Lead%20Developer&amp;descSize=21&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="SakuyaAyane header" />
 </p>
 
 <p align="center">
@@ -50,23 +50,44 @@
 ## 🛠️ 技术栈 · Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,git,linux,idea,vscode&theme=dark" alt="Java, Python, C++, C, Git, Linux, IntelliJ IDEA and VS Code" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,git,linux,idea,vscode&amp;theme=dark" alt="Technology stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111827" alt="C" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=111827" alt="C" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=111827" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
+</p>
+
+## 📊 数据统计 · GitHub analytics
+
+<p align="center">
+  <a href="https://github.com/MelodyAyane">
+    <img height="195" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MelodyAyane&amp;theme=github_dark&amp;title_color=FF69B4&amp;text_color=C9D1D9&amp;bg_color=0d1117&amp;border_color=FF69B4&amp;icon_color=FF69B4&amp;animation=rise" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/MelodyAyane?tab=repositories">
+    <img height="195" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MelodyAyane&amp;theme=github_dark&amp;title_color=FF69B4&amp;text_color=C9D1D9&amp;bg_color=0d1117&amp;border_color=FF69B4&amp;icon_color=FF69B4&amp;animation=rise" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MelodyAyane">
+    <img width="97%" src="https://streak-stats.demolab.com/?user=MelodyAyane&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=FF69B4&amp;fire=FF69B4&amp;currStreakLabel=FF69B4&amp;sideLabels=9CA3AF&amp;dates=9CA3AF&amp;stroke=FF69B4" alt="GitHub contribution streak" />
+  </a>
 </p>
 
 ## 📬 联系与互动 · Connect
 
 <p align="center">
-  <a href="https://github.com/MelodyAyane"><img src="https://img.shields.io/badge/Follow%20me-MelodyAyane-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Follow MelodyAyane on GitHub" /></a>
-  <a href="https://github.com/NekoSoft"><img src="https://img.shields.io/badge/组织-NekoSoft-9b5de5?style=for-the-badge&logo=github&logoColor=white" alt="NekoSoft organization" /></a>
+  <a href="https://github.com/MelodyAyane">
+    <img src="https://img.shields.io/badge/Follow%20me-MelodyAyane-ff69b4?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Follow MelodyAyane" />
+  </a>
+  <a href="https://github.com/NekoSoft">
+    <img src="https://img.shields.io/badge/组织-NekoSoft-9b5de5?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="NekoSoft organization" />
+  </a>
 </p>
 
 <p align="center">
@@ -74,5 +95,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff69b4,9b5de5,0d1117&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=ff69b4,9b5de5,0d1117&amp;height=100&amp;section=footer" width="100%" alt="Footer" />
 </p>
